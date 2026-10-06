@@ -2,7 +2,12 @@
 
 > A web-based Java application designed to manage college information, students, recruitment activities, applications, interviews, and placements through a centralized platform.
 
----
+-----
+👩‍💻 My Contribution
+
+As a team member, I was responsible for developing the Admin and Recruitment modules, including Student, College, Department, Course, Faculty, Company, Job, Application, Interview, Placement and Reports management, along with their Servlet, DAO, JSP and database integration.
+
+--------
 
 ## 📌 About the Project
 
